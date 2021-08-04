@@ -49,7 +49,6 @@ function checkCollatz() {
 	const template = `
 		<p>Number of Iterations: <b>${steps.length}</b></p>
 		<p>Highest Value: <b>${sortedDataset[sortedDataset.length - 1]}</b></p>
-		<p>Steps:</p>
 	`;
 
 	outputElement.innerHTML = template;
