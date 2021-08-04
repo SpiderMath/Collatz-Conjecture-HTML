@@ -3,6 +3,12 @@ body {
 	background-color: #976ED7;
 }
 
+div {
+	text-align: center;
+	font-size: larger;
+	color: yellow;
+}
+
 #display-top {
 	/* color: #90d5ec; */
 	color: #ffffff;
